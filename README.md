@@ -1,8 +1,13 @@
-# DAAI_N2.5
-Link Jira: https://daainhom2htttkstn.atlassian.net?continue=https%3A%2F%2Fdaainhom2htttkstn.atlassian.net%2Fwelcome%2Fsoftware&atlOrigin=eyJpIjoiYmM2OGJiZmZkNDE4NGEyZmIzZDlkMTQ2NmYxNmZkNDgiLCJwIjoiaiJ9
+## 🔗 Jira quản lý dự án
 
-Danh sách thành viên:
-24666511,Ngô Đình Khoa;
-24659891,Bùi Minh Hoàng;
-24640061,Phạm Nhật Khánh;
-24717171,Nguyễn Thị Hồng Nhạn;
+[Truy cập Jira của nhóm]([DÁN_LINK_JIRA_VÀO_ĐÂY](https://daainhom2htttkstn.atlassian.net?continue=https%3A%2F%2Fdaainhom2htttkstn.atlassian.net%2Fwelcome%2Fsoftware&atlOrigin=eyJpIjoiYmM2OGJiZmZkNDE4NGEyZmIzZDlkMTQ2NmYxNmZkNDgiLCJwIjoiaiJ9))
+
+## 👥 Danh sách thành viên
+
+| MSSV     | Họ và tên    |
+| -------- | ------------ |
+| 246xxxxx | Nguyễn Văn A |
+| 246xxxxx | Nguyễn Văn B |
+| 246xxxxx | Nguyễn Văn C |
+| 246xxxxx | Nguyễn Văn D |
+| 246xxxxx | Nguyễn Văn E |
