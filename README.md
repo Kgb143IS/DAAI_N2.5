@@ -4,10 +4,9 @@
 
 ## 👥 Danh sách thành viên
 
-| MSSV     | Họ và tên    |
-| -------- | ------------ |
-| 246xxxxx | Nguyễn Văn A |
-| 246xxxxx | Nguyễn Văn B |
-| 246xxxxx | Nguyễn Văn C |
-| 246xxxxx | Nguyễn Văn D |
-| 246xxxxx | Nguyễn Văn E |
+| MSSV     | Họ và tên            |
+| -------- | -------------------- |
+| 24666511 | Ngô Đình Khoa        |
+| 24659891 | Bùi Minh Hoàng       |
+| 24640061 | Phạm Nhật Khánh      |
+| 24717171 | Nguyễn Thị Hồng Nhạn |
