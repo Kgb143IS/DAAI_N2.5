@@ -1,5 +1,3 @@
-Link Jira: 
-
 # DAAI_N2.5
 
 ## 🔗 Jira quản lý dự án
